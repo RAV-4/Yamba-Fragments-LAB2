@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Yamba</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_tweet">Tweet</string>
+    <string name="hint_status">¿Qué está pasando?</string>
+    <string name="yamba">YambaGr7</string>
+    <string name="title_activity_status_fragment">StatusFragment</string>
+    <string name="title_activity_status">StatusActivity</string>
+</resources>
